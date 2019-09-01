@@ -1,0 +1,20 @@
+/npm-debug.*
+/yarn-debug.log*
+/yarn-error.log*
+/node_modules/
+/yarn.lock
+/package-lock.json
+/dist
+
+# Mac OS X
+.DS_Store
+
+# direnv
+.envrc
+
+# vim
+*~
+
+# nyc
+/.nyc_output
+/coverage
