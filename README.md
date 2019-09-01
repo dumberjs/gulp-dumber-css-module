@@ -45,7 +45,7 @@ CSS Module turns it into something like
 ```
 
 With a mapping:
-```js
+```json
 {
   "title": "_title_xkpkl_5 _title_116zl_1",
   "article": "_article_xkpkl_10"
