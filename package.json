@@ -1,6 +1,6 @@
 {
   "name": "gulp-dumber-css-module",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Gulp plugin for using CSS Module with dumber bundler",
   "main": "index.js",
   "files": [
