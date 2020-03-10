@@ -1,4 +1,4 @@
-# gulp-dumber-css-module [![Build Status](https://travis-ci.org/dumberjs/gulp-dumber-css-module.svg?branch=master)](https://travis-ci.org/dumberjs/gulp-dumber-css-module)
+# gulp-dumber-css-module ![CI](https://github.com/dumberjs/gulp-dumber-css-module/workflows/CI/badge.svg)
 
 Gulp plugin for using [CSS Module](https://github.com/css-modules/css-modules) with dumber bundler.
 
